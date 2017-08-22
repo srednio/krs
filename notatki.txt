@@ -2,3 +2,13 @@ To jest nowy plik tekstowy, w którym będę trzymał notatki.
 
 Pozdrawiam,
 Krzysztof
+
+
+Adres routera:
+192.168.100.1
+
+Drukarka mamy:
+HP Deskjet Ink Advantage 4535
+
+Karta sieciowa 5GHz:
+TP-Link Archer TU2H (?)
